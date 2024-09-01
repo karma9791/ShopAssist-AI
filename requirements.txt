@@ -1,0 +1,5 @@
+jupyterlab==4.2.4
+openai==1.37.1
+pandas==2.2.2
+numpy==2.0.1
+tenacity==9.0.0
